@@ -1,4 +1,12 @@
-# ft_printf
+<h1 align="center">
+	🖋️ ft_printf
+</h1>
+
+<h3 align="center">
+	<a href="#-about-the-project">프로젝트 소개</a>
+	<span> · </span>
+	<a href="#%EF%B8%8F-usage">사용법</a>
+</h3>
 
 ## 개요
 
